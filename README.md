@@ -51,7 +51,7 @@ To view my portfolio, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/dynamic-responsive-personal-portfolio.git
+   git clone https://github.com//Asdesac/Dynamic-responsive-personal-portifolio.git
 Navigate into the project directory:
 bash
 
