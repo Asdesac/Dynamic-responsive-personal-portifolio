@@ -1,8 +1,8 @@
 # Dynamic Responsive Personal Portfolio
 
-![Portfolio Banner](readmeimage\image1.png) <!-- Replace with your image link -->
+ <!-- Replace with your image link -->
 <img src="\Dynamic-responsive-personal-portifolio\readmeimage\image1.png" alt="Image Description">
-<img src="\footcap-master\readme-images\readneimage.png" alt="Image Description">
+
 Welcome to my portfolio! I am **Asdesach Asfaw**, a passionate Front End Developer, UI/UX Designer, MERN Stack Developer, and Graphic Designer with over **3 years** of experience.
 
 ## 🚀 Features
@@ -11,14 +11,14 @@ Welcome to my portfolio! I am **Asdesach Asfaw**, a passionate Front End Develop
 - **Smooth Scrolling**: Easy navigation through sections.
 - **Dynamic Content**: Engaging and interactive elements.
 - **Project Showcase**: Highlight your work effectively.
-
+<img src="\Dynamic-responsive-personal-portifolio\readmeimage\image2.png" alt="Image Description">
 ## 🎨 Technologies Used
 
 - **Languages**: JavaScript, TypeScript, Python, HTML, CSS
 - **Frameworks**: React, Node.js, Express.js, MongoDB, GraphQL
 - **Design Tools**: Adobe Photoshop, Illustrator, Figma
 - **Version Control**: Git
-
+<img src="\Dynamic-responsive-personal-portifolio\readmeimage\image3.png" alt="Image Description">
 ## 📈 Skills & Experience
 
 | Skill          | Proficiency |
@@ -29,13 +29,14 @@ Welcome to my portfolio! I am **Asdesach Asfaw**, a passionate Front End Develop
 | JavaScript     | 90%         |
 | Node.js        | 95%         |
 | UI/UX          | 85%         |
-
+<img src="\Dynamic-responsive-personal-portifolio\readmeimage\image4.png" alt="Image Description">
 ## 📂 My Services
 
 - **MERN Stack Development**: Starting from **$199**
 - **Graphic Design**: Logos, Branding, and more
 - **Web Design & Development**: Front-end and back-end solutions
 - **UI/UX Design**: User-centered design approaches
+- <img src="\Dynamic-responsive-personal-portifolio\readmeimage\image5.png" alt="Image Description">
 
 ## 📞 Contact Me
 
