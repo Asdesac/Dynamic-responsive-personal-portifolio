@@ -1,7 +1,7 @@
 # Dynamic Responsive Personal Portfolio
 
-![Portfolio Banner](https://your-image-link.com/banner.png) <!-- Replace with your image link -->
-<img src="\readmeimage\image1.png" alt="Image Description">
+![Portfolio Banner](\readmeimage\image1.png) <!-- Replace with your image link -->
+<img src="readmeimage\image1.png" alt="Image Description">
 Welcome to my portfolio! I am **Asdesach Asfaw**, a passionate Front End Developer, UI/UX Designer, MERN Stack Developer, and Graphic Designer with over **3 years** of experience.
 
 ## 🚀 Features
