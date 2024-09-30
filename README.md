@@ -1,7 +1,8 @@
 # Dynamic Responsive Personal Portfolio
 
 ![Portfolio Banner](readmeimage\image1.png) <!-- Replace with your image link -->
-<img src="C:\Users\HP\Desktop\choose\Dynamic-responsive-personal-portifolio\readmeimage\image1.png" alt="Image Description">
+<img src="\Dynamic-responsive-personal-portifolio\readmeimage\image1.png" alt="Image Description">
+<img src="\footcap-master\readme-images\readneimage.png" alt="Image Description">
 Welcome to my portfolio! I am **Asdesach Asfaw**, a passionate Front End Developer, UI/UX Designer, MERN Stack Developer, and Graphic Designer with over **3 years** of experience.
 
 ## 🚀 Features
